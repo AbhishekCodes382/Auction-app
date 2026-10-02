@@ -82,7 +82,3 @@ http://localhost:8000/
 ![Screenshot 2023-06-10 221155](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/287c7cfe-de24-4819-a303-ab05a02c3321)
 
 ![Screenshot 2023-06-10 220538](https://github.com/arpita-maji/BidScape--Online-Auction-System/assets/119843428/f366aca5-33ee-422b-a5ef-07c03b1f886a)
-
-## License
-
-[MIT License](https://github.com/arpita-maji/BidScape--Online-Auction-System/blob/master/LICENSE)
